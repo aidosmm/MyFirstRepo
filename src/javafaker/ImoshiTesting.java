@@ -1,4 +1,4 @@
-package main;
+package javafaker;
 
 public class ImoshiTesting {
     public static void main(String[] args) {
